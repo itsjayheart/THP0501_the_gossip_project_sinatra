@@ -12,7 +12,7 @@ keep it yours
 
 Marion ' j ' Pocquet did this on their own
 
-while frantically sharing gifs with their new friens on a watermelon driven Discord server
+while frantically sharing gifs with their new friends on a watermelon focused Discord server
 
 r e g a r d s
 
