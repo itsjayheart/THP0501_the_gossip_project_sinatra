@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>t h e | g o s s i p | p r o j e c t</title>
+  </head>
+  <body>
+    <h1>t h e | g o s s i p | p r o j e c t</h1>
+    <p><a href="/gossips/new/">++</a> tell us a new _ g o s s i p</p>
+
+    <% gossips.each_with_index do |gossip, index| %>
+        <p>
+          <%= gossip.author %><br/>
+          <%= gossip.content %>
+        </p>
+        <p><a href="/gossips/<%= index + 1 %>">g o s s i p | p a g e</a></p>
+      <% end %>
+
+  </body>
+</html>
